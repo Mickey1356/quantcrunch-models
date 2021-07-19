@@ -1,0 +1,8 @@
+numpy==1.20.3
+torch==1.7.1
+requests==2.25.1
+joblib==1.0.0
+APScheduler==3.6.3
+scikit-learn==0.24.1
+python-decouple==3.4
+pymongo==3.12.0
